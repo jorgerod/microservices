@@ -1,0 +1,6 @@
+package com.microservices.controller;
+
+@restco
+public class FilmController {
+
+}
