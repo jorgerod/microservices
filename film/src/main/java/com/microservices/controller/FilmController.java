@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.microservices.dto.FilmDto;
 
 @RestController
+@RequestMapping("film")
 public class FilmController {
 
     private List<FilmDto> films = new ArrayList<FilmDto>() {

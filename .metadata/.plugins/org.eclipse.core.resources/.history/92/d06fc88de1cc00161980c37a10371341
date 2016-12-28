@@ -1,0 +1,12 @@
+server:
+  port: 8761
+info:
+  version: 0.0.1-SNAPSHOT
+  Description: Eureka Server
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: true
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+    enableSelfPreservation: true

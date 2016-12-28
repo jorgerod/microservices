@@ -1,8 +1,10 @@
+spring:
+  application:
+    name: eureka-server
+  profiles:
+    active: node1, node2
 server:
   port: 8761
-info:
-  version: 0.0.1-SNAPSHOT
-  Description: Eureka Server
 eureka:
   client:
     registerWithEureka: true
