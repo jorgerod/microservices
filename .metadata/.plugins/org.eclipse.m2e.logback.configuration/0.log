@@ -1254,3 +1254,180 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2016-12-28 17:54:56,285 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-12-28 17:54:56,285 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-12-28 17:54:56,285 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\eureka-server\src\test\resources
+2016-12-28 18:21:58,802 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:turbineserver:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\turbine-server\pom.xml.
+2016-12-28 18:22:02,102 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:22:02,571 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:22:02,837 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-turbine-1.2.4.BUILD-20161228.164808-270.pom
+2016-12-28 18:22:03,065 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-turbine-1.2.4.BUILD-20161228.164808-270.pom
+2016-12-28 18:22:03,315 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:22:03,502 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:22:03,892 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-turbine-1.2.4.BUILD-20161228.164658-270.pom
+2016-12-28 18:22:04,121 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-turbine-1.2.4.BUILD-20161228.164658-270.pom
+2016-12-28 18:22:04,305 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.pom
+2016-12-28 18:22:05,159 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.pom
+2016-12-28 18:22:05,755 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.pom
+2016-12-28 18:22:05,911 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.pom
+2016-12-28 18:22:06,786 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.pom
+2016-12-28 18:22:07,653 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.pom
+2016-12-28 18:22:07,731 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.pom
+2016-12-28 18:22:07,809 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.pom
+2016-12-28 18:22:08,675 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.pom
+2016-12-28 18:22:09,579 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.pom
+2016-12-28 18:22:09,657 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.pom
+2016-12-28 18:22:09,737 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.pom
+2016-12-28 18:22:11,497 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-turbine-1.2.4.BUILD-20161228.164808-270.jar
+2016-12-28 18:22:11,720 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-turbine-1.2.4.BUILD-20161228.164808-270.jar
+2016-12-28 18:22:12,052 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-turbine-1.2.4.BUILD-20161228.164658-270.jar
+2016-12-28 18:22:12,416 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-turbine/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-turbine-1.2.4.BUILD-20161228.164658-270.jar
+2016-12-28 18:22:12,583 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.jar
+2016-12-28 18:22:13,439 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar
+2016-12-28 18:22:14,293 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar
+2016-12-28 18:22:15,322 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.jar
+2016-12-28 18:22:16,218 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar
+2016-12-28 18:22:17,107 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar
+2016-12-28 18:22:17,194 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.jar
+2016-12-28 18:22:17,666 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/turbine/turbine-core/1.0.0/turbine-core-1.0.0.jar
+2016-12-28 18:22:17,743 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar
+2016-12-28 18:22:18,856 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar
+2016-12-28 18:22:18,930 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar
+2016-12-28 18:22:19,325 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar
+2016-12-28 18:22:24,060 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /turbine-server/src/main/java
+2016-12-28 18:22:24,061 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /turbine-server/src/main/resources
+2016-12-28 18:22:24,077 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /turbine-server/src/main/resources
+2016-12-28 18:22:24,111 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /turbine-server/src/test/java
+2016-12-28 18:22:27,031 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 32 sec
+2016-12-28 18:22:27,038 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-28 18:22:31,086 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:turbineserver:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\turbine-server\pom.xml.
+2016-12-28 18:22:35,586 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /turbine-server/src/main/java
+2016-12-28 18:22:35,586 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /turbine-server/src/main/resources
+2016-12-28 18:22:35,588 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /turbine-server/src/main/resources
+2016-12-28 18:22:35,596 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /turbine-server/src/test/java
+2016-12-28 18:22:36,634 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2016-12-28 18:25:28,194 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:25:28,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:25:28,225 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:25:28,241 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:25:28,241 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\config-server\src\test\resources
+2016-12-28 18:25:36,499 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:25:36,499 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-28 18:25:36,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:25:36,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:25:36,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\eureka-server\src\test\resources
+2016-12-28 18:25:38,749 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:turbineserver:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\turbine-server\pom.xml.
+2016-12-28 18:25:41,321 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.pom
+2016-12-28 18:25:42,220 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.pom
+2016-12-28 18:25:42,709 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.pom
+2016-12-28 18:25:42,787 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.pom
+2016-12-28 18:25:43,864 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:25:44,214 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:25:44,526 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-hystrix-dashboard-1.2.4.BUILD-20161228.164518-272.pom
+2016-12-28 18:25:44,714 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-hystrix-dashboard-1.2.4.BUILD-20161228.164518-272.pom
+2016-12-28 18:25:44,917 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.pom
+2016-12-28 18:25:45,600 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.pom
+2016-12-28 18:25:45,678 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.pom
+2016-12-28 18:25:45,756 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.pom
+2016-12-28 18:25:46,624 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.pom
+2016-12-28 18:25:47,467 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.pom
+2016-12-28 18:25:47,546 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.pom
+2016-12-28 18:25:47,624 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.pom
+2016-12-28 18:25:48,499 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.pom
+2016-12-28 18:25:49,342 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.pom
+2016-12-28 18:25:49,421 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.pom
+2016-12-28 18:25:49,514 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.pom
+2016-12-28 18:25:50,458 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/module/jackson-modules-base/2.7.5/jackson-modules-base-2.7.5.pom
+2016-12-28 18:25:51,306 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/module/jackson-modules-base/2.7.5/jackson-modules-base-2.7.5.pom
+2016-12-28 18:25:51,478 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.7.5/jackson-modules-base-2.7.5.pom
+2016-12-28 18:25:51,556 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.7.5/jackson-modules-base-2.7.5.pom
+2016-12-28 18:25:52,416 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2016-12-28 18:25:53,267 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2016-12-28 18:25:53,345 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2016-12-28 18:25:53,424 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.7/jackson-parent-2.7.pom
+2016-12-28 18:25:54,289 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2016-12-28 18:25:55,140 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2016-12-28 18:25:55,218 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2016-12-28 18:25:55,358 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/25/oss-parent-25.pom
+2016-12-28 18:25:56,552 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.pom
+2016-12-28 18:25:57,245 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.pom
+2016-12-28 18:25:57,323 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.pom
+2016-12-28 18:25:57,402 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.pom
+2016-12-28 18:25:58,250 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.8.5/jackson-dataformats-binary-2.8.5.pom
+2016-12-28 18:25:59,109 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.8.5/jackson-dataformats-binary-2.8.5.pom
+2016-12-28 18:25:59,187 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.8.5/jackson-dataformats-binary-2.8.5.pom
+2016-12-28 18:25:59,266 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-binary/2.8.5/jackson-dataformats-binary-2.8.5.pom
+2016-12-28 18:26:00,141 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-12-28 18:26:00,984 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-12-28 18:26:01,063 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-12-28 18:26:01,156 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.pom
+2016-12-28 18:26:02,016 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2016-12-28 18:26:02,694 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2016-12-28 18:26:02,772 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2016-12-28 18:26:02,850 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.pom
+2016-12-28 18:26:04,207 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.jar
+2016-12-28 18:26:05,207 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-hystrix-dashboard-1.2.4.BUILD-20161228.164518-272.jar
+2016-12-28 18:26:05,988 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-netflix-hystrix-dashboard-1.2.4.BUILD-20161228.164518-272.jar
+2016-12-28 18:26:06,207 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.jar
+2016-12-28 18:26:06,926 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.jar
+2016-12-28 18:26:07,797 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.jar
+2016-12-28 18:26:08,563 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.jar
+2016-12-28 18:26:09,407 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-12-28 18:26:10,266 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2016-12-28 18:26:11,235 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.jar
+2016-12-28 18:26:12,079 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.jar
+2016-12-28 18:26:12,763 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.jar
+2016-12-28 18:26:13,488 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.jar
+2016-12-28 18:26:14,340 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.jar
+2016-12-28 18:26:15,188 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-12-28 18:26:16,032 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2016-12-28 18:26:16,126 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.jar
+2016-12-28 18:26:16,204 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.3.RELEASE/spring-cloud-starter-hystrix-dashboard-1.2.3.RELEASE.jar
+2016-12-28 18:26:16,282 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.jar
+2016-12-28 18:26:16,454 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.5.6/hystrix-metrics-event-stream-1.5.6.jar
+2016-12-28 18:26:16,548 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.jar
+2016-12-28 18:26:16,657 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-serialization/1.5.6/hystrix-serialization-1.5.6.jar
+2016-12-28 18:26:16,751 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.jar
+2016-12-28 18:26:17,017 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.7.5/jackson-module-afterburner-2.7.5.jar
+2016-12-28 18:26:17,110 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.jar
+2016-12-28 18:26:17,235 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-cbor/2.8.5/jackson-dataformat-cbor-2.8.5.jar
+2016-12-28 18:26:17,329 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-12-28 18:26:17,595 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/2.1.1/jquery-2.1.1.jar
+2016-12-28 18:26:17,688 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2016-12-28 18:26:17,907 [main] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/d3js/3.4.11/d3js-3.4.11.jar
+2016-12-28 18:26:19,808 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:26:19,809 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:26:19,810 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:26:19,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:26:19,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\turbine-server\src\test\resources
+2016-12-28 18:28:02,923 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:film:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\film\pom.xml.
+2016-12-28 18:28:06,392 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:turbineserver:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\turbine-server\pom.xml.
+2016-12-28 18:28:08,942 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:28:09,153 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/maven-metadata.xml
+2016-12-28 18:28:09,436 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-dashboard-1.2.4.BUILD-20161228.164801-270.pom
+2016-12-28 18:28:09,702 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-dashboard-1.2.4.BUILD-20161228.164801-270.pom
+2016-12-28 18:28:10,483 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-dashboard-1.2.4.BUILD-20161228.164801-270.jar
+2016-12-28 18:28:10,702 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/cloud/spring-cloud-starter-hystrix-dashboard/1.2.4.BUILD-SNAPSHOT/spring-cloud-starter-hystrix-dashboard-1.2.4.BUILD-20161228.164801-270.jar
+2016-12-28 18:28:11,374 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:11,374 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:28:11,374 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:28:11,390 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:11,390 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\turbine-server\src\test\resources
+2016-12-28 18:28:19,010 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservices:film:0.0.1-SNAPSHOT @ D:\opt\dev\microservices\film\pom.xml.
+2016-12-28 18:28:21,247 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:21,247 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:28:21,263 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:28:21,263 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:21,263 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\film\src\test\resources
+2016-12-28 18:28:29,544 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:29,544 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:28:29,544 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:28:29,560 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:29,560 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\turbine-server\src\test\resources
+2016-12-28 18:28:38,907 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:38,907 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:28:38,907 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:28:38,907 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:28:38,923 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\film\src\test\resources
+2016-12-28 18:30:21,020 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:30:21,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-28 18:30:21,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-28 18:30:21,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-28 18:30:21,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\opt\dev\microservices\turbine-server\src\test\resources

@@ -2,5 +2,6 @@
 <aop-reference-model>
 <aop-project name="config-server"/>
 <aop-project name="eureka-server"/>
+<aop-project name="turbine-server"/>
 <aop-project name="film"/>
 </aop-reference-model>
