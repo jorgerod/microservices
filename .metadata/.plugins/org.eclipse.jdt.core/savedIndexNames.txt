@@ -12,7 +12,6 @@ INDEX VERSION 1.129+D:\opt\dev\microservices\.metadata\.plugins\org.eclipse.jdt.
 1685410699.index
 3405581268.index
 3142107500.index
-2227838403.index
 3519369966.index
 178265589.index
 2589829932.index

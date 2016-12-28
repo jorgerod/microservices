@@ -5,6 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jorgerod/microservices/tree/master/config-repo
+          uri: https://github.com/jorgerod/microservices.git
+          basedir: config-server
 server:
   port: 8888
