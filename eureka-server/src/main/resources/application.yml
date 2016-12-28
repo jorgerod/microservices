@@ -1,8 +1,8 @@
 spring:
   application:
     name: eureka-server
-  profiles:
-    active: node1, node2
+#  profiles:
+#    active: node1, node2
 server:
   port: 8761
 eureka:
