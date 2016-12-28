@@ -9,3 +9,10 @@ spring:
           basedir: config-server
 server:
   port: 8888
+security:
+  ignored: /health**,/info**,/metrics**,/trace**
+  basic:
+    enabled: true
+  user:
+    name: testeando
+    password: t3st34nd0
