@@ -24,6 +24,6 @@ nbdist/
 .nb-gradle/
 
 
-RemoteSystemsTempFiles
-.recommenders
-.metadata
+RemoteSystemsTempFiles/
+.recommenders/
+.metadata/
