@@ -1,0 +1,13 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: report
+  cloud:
+    config:
+      enabled: true
+      fail-fast: true
+      username: testeando
+      password: t3st34nd0
+      uri: ${CONFIG_SERVER:http://localhost:8888/}
+  

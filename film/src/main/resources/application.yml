@@ -3,6 +3,7 @@ spring:
     name: film
   cloud:
     config:
+      enabled: true
       fail-fast: true
       username: testeando
       password: t3st34nd0
